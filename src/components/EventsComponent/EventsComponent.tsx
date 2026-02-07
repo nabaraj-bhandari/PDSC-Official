@@ -143,14 +143,14 @@ const EventsComponent = () => {
                     </div>
                 </div>
 
-                {/* Git and Github (Left) */}
+                {/* Git and GitHub (Left) */}
                 <div className="row no-gutters">
                     <div className="col-sm py-2">
                         <div className="card border-warning">
                             <div className="card-body">
-                                <h4 className="card-title text-warning">Git and Github</h4>
+                                <h4 className="card-title text-warning">Git and GitHub</h4>
                                 <small className="card-text mb-2 d-block">Upcoming...</small>
-                                <p className="card-text">Workshop on Git and Github.</p>
+                                <p className="card-text">Workshop on Git and GitHub.</p>
                             </div>
                         </div>
                     </div>
